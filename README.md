@@ -7,3 +7,5 @@
 
 ## 6. 修改全部未提交文件状态 git commit -a -m"..."
 ## 7. 下载存储 git clone https://url
+
+

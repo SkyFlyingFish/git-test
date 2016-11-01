@@ -9,3 +9,7 @@
 ## 7. 下载存储 git clone https://url
 ## 8. 删除服务器和本地文件 git rm filename
 
+## 9. 查看分支 git branch
+##10. 创建分支 git branch xxl
+##11. 切换分支 git checkout xxl
+##12. 查看所有分支 git branch -a

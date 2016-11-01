@@ -7,5 +7,5 @@
 
 ## 6. 修改全部未提交文件状态 git commit -a -m"..."
 ## 7. 下载存储 git clone https://url
-
+## 8. 删除服务器和本地文件 git rm filename
 

@@ -13,4 +13,5 @@
 ##10. 创建分支 git branch xxl
 ##11. 切换分支 git checkout xxl
 ##12. 查看所有分支 git branch -a
-kiss
+
+##13. 从服务器获取最新文件 git pull

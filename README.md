@@ -4,3 +4,6 @@
 ## 3. 向列表中添加文件 git add filename
 ## 4. 设置列表中文件为提交状态 git commit filename -m "..."
 ## 5. 提交列表中的文件到服务器 git push -o origin master
+
+## 6. 修改全部未提交文件状态 git commit -a -m"..."
+## 7. 下载存储 git clone https://url

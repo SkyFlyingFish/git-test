@@ -15,3 +15,9 @@
 ##12. 查看所有分支 git branch -a
 
 ##13. 从服务器获取最新文件 git pull
+
+## 解决内容冲突
+### 1. git stash
+### 2. git pull
+### 3. git stash pop
+### 4. git add

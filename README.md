@@ -16,7 +16,7 @@
 
 ##13. 从服务器获取最新文件 git pull
 
-## 解决内容冲突
+## 14 解决内容冲突
 ### 1. git stash
 ### 2. git pull
 ### 3. git stash pop
